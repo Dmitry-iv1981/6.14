@@ -1,0 +1,35 @@
+.start{
+	display: flex;
+	margin-left: 70px;
+}
+.button-start{
+	display: block;
+	width: 100px;
+	height: 50px;
+	margin: 3px 0 0 20px;
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+}
+.game-field {
+  background-color: orange;
+  min-height: 10vh;
+  max-width: 10vw;
+  margin: 1px 1px 1px 1px;
+  line-height: 10vh;
+  font-size: 0pt;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.miss {
+  background-color: red;
+}
+.btn {
+	margin-left: 120px;
+}
